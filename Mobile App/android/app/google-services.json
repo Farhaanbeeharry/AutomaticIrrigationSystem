@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "450055456098",
+    "firebase_url": "https://automaticirrigationsyste-beeb7-default-rtdb.firebaseio.com",
+    "project_id": "automaticirrigationsyste-beeb7",
+    "storage_bucket": "automaticirrigationsyste-beeb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450055456098:android:70794d402aa1078fcc983b",
+        "android_client_info": {
+          "package_name": "com.watery.watery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450055456098-rgkh4t28jmqnkafvmm8sree596o790f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg3MUN9LzjSAlBQTRpTB5lf15j8lbYYBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450055456098-rgkh4t28jmqnkafvmm8sree596o790f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
